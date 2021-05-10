@@ -1,5 +1,4 @@
-<h2><b>Bangladesh White Cyber 71</b></h2>
-<u>  <b><i> Email Bombing Tools</i></b></u>
+<h2><b>Email Bombing Tools By No Name Virus</b></h2>
     <font color="red"><h2><b><i>Development: Md Shirajul Islam</i></b></h2></font>
 <a href="https://ibb.co/wRbsYgv"><img src="https://i.ibb.co/jTxRHfp/01-Done.jpg" alt="01-Done" border="0"></a>
 
