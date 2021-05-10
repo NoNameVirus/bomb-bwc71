@@ -1,5 +1,3 @@
-# bomb-bwc71\
-
 <h2><b>Bangladesh White Cyber 71</b></h2>
 <u>  <b><i> Email Bombing Tools</i></b></u>
     <font color="red"><h2><b><i>Development: Md Shirajul Islam</i></b></h2></font>
