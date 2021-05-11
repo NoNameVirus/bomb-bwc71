@@ -36,6 +36,7 @@ logo=red+str("""
 	 https://github.com/NoNameVirus
 		       ─────────
 	⚤Development: Md Shirajul Islam⚤
+	   ≛ Credit: Root Of Cyber≛
 └───────────────❀̥˚── - ─◌───❀̥˚────────────────┘
 """)              
 text=cyan+"\t⚤⚤ BWC71 E-Mail Bomber ⚤⚤   \n" 
