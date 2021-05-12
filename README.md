@@ -25,3 +25,11 @@ git clone https://github.com/NoNameVirus/bomb-bwc71
 cd bomb-bwc71
 python3 start.py
 </code></pre>
+
+<h2>Contact With Me</h2>
+Facebook Profile: https://facebook.com/nonamevirus<br>
+Facebook Groups: https://facebook.com/groups/bwc71<br>
+Facebook Page: https://facebook.com/bwc71<br>
+Telegram: https://t.me/bwc71
+
+<h1><font color="red">Thank You</font></h1>
